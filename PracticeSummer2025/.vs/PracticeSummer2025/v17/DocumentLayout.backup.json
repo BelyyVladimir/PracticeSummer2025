@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\PracticeSummer2025\\PracticeSummer2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C2F6CB9-8E70-4098-A959-49C866C6AD36}|task01\\task01.csproj|c:\\projects\\practicesummer2025\\practicesummer2025\\task01\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C2F6CB9-8E70-4098-A959-49C866C6AD36}|task01\\task01.csproj|solutionrelative:task01\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C603CFA4-17AE-44B3-80FA-3284445A8D2B}|task01tests\\task01tests.csproj|c:\\projects\\practicesummer2025\\practicesummer2025\\task01tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C603CFA4-17AE-44B3-80FA-3284445A8D2B}|task01tests\\task01tests.csproj|solutionrelative:task01tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Projects\\PracticeSummer2025\\PracticeSummer2025\\task01\\Class1.cs",
+              "RelativeDocumentMoniker": "task01\\Class1.cs",
+              "ToolTip": "C:\\Projects\\PracticeSummer2025\\PracticeSummer2025\\task01\\Class1.cs",
+              "RelativeToolTip": "task01\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:05:09.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Projects\\PracticeSummer2025\\PracticeSummer2025\\task01tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "task01tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Projects\\PracticeSummer2025\\PracticeSummer2025\\task01tests\\UnitTest1.cs",
+              "RelativeToolTip": "task01tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:05:58.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
